@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Columbus
+author: "LOUIS SIMPSON"
 date: 2022-06-11
 ---
 
@@ -54,5 +55,3 @@ A crew of able seamen
 Sprang up at his command—
 An angle or a demon—
 And they rowed him from the land.
-
-LOUIS SIMPSON

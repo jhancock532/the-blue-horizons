@@ -2,7 +2,7 @@
 layout: post
 title: "After the Fall"
 date: 2022-06-11
-categories: rain
+author: "GLORIA ESCOFFERY"
 ---
 
 Often you have watched the rain fall
@@ -19,5 +19,3 @@ The death,
 The rebirth of sunshine on wet grass.
 Today you have seen a waterfall and have been
 A young thing rushing headlong, to destruction.
-
-GLORIA ESCOFFERY

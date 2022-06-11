@@ -9,15 +9,17 @@ layout: default
 
   {{ content }}
 
+  {% assign poems = site.posts %}
+
   <ul class="post-list">
-    {%- for post in posts -%}
+    {%- for poem in poems -%}
     <li>
       <h2>
-        <a class="post-link" href="{{ post.url | relative_url }}">
-          {{ post.title | escape }}
+        <a class="post-link" href="{{ poem.url | relative_url }}">
+          {{ poem.title | escape }}
         </a>
       </h2>
-      {{ post.content }}
+      {{ poem.content }}
     </li>
     {%- endfor -%}
   </ul>
