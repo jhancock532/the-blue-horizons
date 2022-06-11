@@ -24,11 +24,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   A collection of poems selected by John Figueroa
 baseurl: "/the-blue-horizons" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+permalink: :title
 twitter_username: jhancock532
 github_username: jhancock532
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
 # Exclude from processing.
