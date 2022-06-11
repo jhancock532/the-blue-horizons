@@ -19,7 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 
 title: The Blue Horizons
-email: Thank you for reading
 description: >- # this means to ignore newlines until "baseurl:"
   A collection of poems selected by John Figueroa
 baseurl: "/the-blue-horizons" # the subpath of your site, e.g. /blog
