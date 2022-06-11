@@ -5,4 +5,4 @@
 layout: home
 ---
 
-# Caribbean Voices, Volume 2: The Blue Horizons
+An Anthology of West Indian Poetry

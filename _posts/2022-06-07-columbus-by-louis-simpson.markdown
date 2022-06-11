@@ -1,11 +1,8 @@
 ---
 layout: post
-title: "After the Fall"
+title: Columbus
 date: 2022-06-11
-categories: island sea
 ---
-
-# Columbus
 
 <em>
 To find the Western path,

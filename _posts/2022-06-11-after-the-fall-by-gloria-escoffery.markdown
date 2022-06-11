@@ -5,8 +5,6 @@ date: 2022-06-11
 categories: rain
 ---
 
-# After the Fall
-
 Often you have watched the rain fall
 And have become the rain drops.
 The passion in the thunder shower is yours
