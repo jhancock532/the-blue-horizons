@@ -21,10 +21,10 @@ man's pulped and beaten face, its look
 acknowledging all that, white-dark outside,
 was possible: some beast prowling the block,
 something fur-clotted, running wild
-beyound the boundary of will. Outside,
+beyond the boundary of will. Outside,
 more snow had fallen. My heart charred.
 I longed for darkness, evil that was warm.
 Walking, I'd stop and turn. What had I heard,
-wheezing behind my heel with whitening breadth?
+wheezing behind my heel with whitening breath?
 Mothing. Sixth Avenue yawned wet and wide.
 The night was white. There was nowhere to hide.
