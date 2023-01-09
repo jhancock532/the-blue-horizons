@@ -5,7 +5,8 @@ date: 2023-01-06
 author: "JOHN FIGUEROA"
 ---
 
-I. <em>From the 'Tower' Class Room at St. George's College,
+I.
+<em>From the 'Tower' Class Room at St. George's College,
 Jamaica, during target practice from shore to sea</em>
 
 I have lifted my eyes above their heads
@@ -40,7 +41,8 @@ Each searching eye is a murky pool
 Slowly lighted by shafts of quivering
 Laughter. We turn the pages and make the best of school.
 
-II. <em>At Cette, from the cemetery where Paul Valery is buried</em>
+II.
+<em>At Cette, from the cemetery where Paul Valery is buried</em>
 
 I stand upon a Mediterranean slope
 And look beyond white grave-stones to the tight
@@ -69,7 +71,8 @@ In the tree, in Valery's voiced fountain top,
 
 In bamboo-shoots and sea's drought-quenching rose.
 
-III. <em>On his Grandmother's Death, news of which he received in Lans-en-Vercours</em>
+III.
+<em>On his Grandmother's Death, news of which he received in Lans-en-Vercours</em>
 
 Amidst this blue of skies and white of snows
 I read the note from occidental hills
