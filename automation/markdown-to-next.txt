@@ -1,0 +1,263 @@
++++ MARKDOWN FILE +++
+
+---
+layout: default
+---
+
+# Dedication
+
+To the Memory
+of
+WILLIAM ARTHUR RICHARDSON
+and
+JOHN GRENFELL WILLIAMS
+one a Trinidadian
+the other a South African
+
+both because of conditions at home
+working for long spells abroad
+both (in the shared concern for
+writing and broadcasting)
+generous and helpful
+to West Indian writers
+
+both remembered gratefully and with affection,
+through this book
+many poems of which
+would not have reached a wider audience
+without their original concern and encouragement.
+
+Peace to them, and Love.
+
++++ NEXTJS FILE +++
+
+import Head from "next/head";
+
+export default function Dedication() {
+  return (
+    <div>
+      <Head>
+        <title>The Blue Horizons - Dedication</title>
+      </Head>
+      <main className="wrapper" aria-label="Content">
+        <h1>Dedication</h1>
+        <p>
+          To the Memory
+          <br />
+          of
+          <br />
+          WILLIAM ARTHUR RICHARDSON
+          <br />
+          and
+          <br />
+          JOHN GRENFELL WILLIAMS
+          <br />
+          one a Trinidadian
+          <br />
+          the other a South African
+          <br />
+          <br />
+          both because of conditions at home
+          <br />
+          working for long spells abroad
+          <br />
+          both (in the shared concern for
+          <br />
+          writing and broadcasting)
+          <br />
+          generous and helpful
+          <br />
+          to West Indian writers
+          <br />
+          <br />
+          both remembered gratefully and with affection,
+          <br />
+          through this book
+          <br />
+          many poems of which
+          <br />
+          would not have reached a wider audience
+          <br />
+          without their original concern and encouragement.
+          <br />
+          <br />
+          Peace to them, and Love.
+          <br />
+        </p>
+      </main>
+    </div>
+  );
+}
+
++++ MARKDOWN FILE +++
+
+---
+layout: post
+title: Columbus
+author: "LOUIS SIMPSON"
+date: 2022-06-11
+---
+
+<em>
+To find the Western path,
+Right thro' the Gates of Wrath...
+  —Blake
+</em>
+  
+As I walked with my friend,
+My singular Columbus,
+Where the land comes to an end
+And the path is perilous,
+Where the wheel and tattered shoe
+And bottle have been thrown,
+And the sky is shining blue,
+And the heart sinks like a stone,
+
+I plucked his sleeve and said,
+'I have come far to find
+The springs of a broken bed,
+The ocean, and the wind,
+I'd rather live in Greece,
+Castile, or an English town
+Than wander here like this
+Where the dunes come tumbling down.'
+
+He answered me, 'Perhaps.
+But Europe never guessed
+America, their maps
+Could not describe the West.
+And though in Plato's glass
+The stars were still and clear,
+Yet nothing came to pass
+And men died of despair.'
+
+He said, 'If there is not
+A way to China, one
+City surpassing thought,
+My ghost will still go on.
+I'll spread the airy sail,'
+He said, 'and point the sprit
+To a county that cannot fail,
+For there's no finding it.'
+
+Straightway we separated—
+He, in his fading coat,
+To the water's edge, where waited
+An admiral's longboat.
+A crew of able seamen
+Sprang up at his command—
+An angle or a demon—
+And they rowed him from the land.
+
++++ NEXTJS FILE +++
+
+import Head from "next/head";
+
+export default function Columbus() {
+  return (
+    <div>
+      <Head>
+        <title>The Blue Horizons - Columbus by Louis Simpson</title>
+      </Head>
+      <main className="wrapper" aria-label="Content">
+        <h1>Columbus</h1>
+        <p>by LOUIS SIMPSON</p>
+        <br />
+        <p>
+          <em>
+            To find the Western path,
+            <br />
+            Right thro' the Gates of Wrath...
+            <br />
+            —Blake
+          </em>
+          <br />
+          As I walked with my friend,
+          <br />
+          My singular Columbus,
+          <br />
+          Where the land comes to an end
+          <br />
+          And the path is perilous,
+          <br />
+          Where the wheel and tattered shoe
+          <br />
+          And bottle have been thrown,
+          <br />
+          And the sky is shining blue,
+          <br />
+          And the heart sinks like a stone,
+          <br />
+          <br />
+          I plucked his sleeve and said,
+          <br />
+          'I have come far to find
+          <br />
+          The springs of a broken bed,
+          <br />
+          The ocean, and the wind,
+          <br />
+          I'd rather live in Greece,
+          <br />
+          Castile, or an English town
+          <br />
+          Than wander here like this
+          <br />
+          Where the dunes come tumbling down.'
+          <br />
+          <br />
+          He answered me, 'Perhaps.
+          <br />
+          But Europe never guessed
+          <br />
+          America, their maps
+          <br />
+          Could not describe the West.
+          <br />
+          And though in Plato's glass
+          <br />
+          The stars were still and clear,
+          <br />
+          Yet nothing came to pass
+          <br />
+          And men died of despair.'
+          <br />
+          <br />
+          He said, 'If there is not
+          <br />
+          A way to China, one
+          <br />
+          City surpassing thought,
+          <br />
+          My ghost will still go on.
+          <br />
+          I'll spread the airy sail,'
+          <br />
+          He said, 'and point the sprit
+          <br />
+          To a county that cannot fail,
+          <br />
+          For there's no finding it.'
+          <br />
+          <br />
+          Straightway we separated—
+          <br />
+          He, in his fading coat,
+          <br />
+          To the water's edge, where waited
+          <br />
+          An admiral's longboat.
+          <br />
+          A crew of able seamen
+          <br />
+          Sprang up at his command—
+          <br />
+          An angle or a demon—
+          <br />
+          And they rowed him from the land.
+          <br />
+        </p>
+      </main>
+    </div>
+  );
+}

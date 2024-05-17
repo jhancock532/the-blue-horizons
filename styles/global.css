@@ -1,0 +1,99 @@
+html {
+  font-size: 10px;
+  font-family: Figueroa, serif;
+  /* John Figueroa, honoured here in a fashion reminiscent of Mr Penumbra's 24 Hour Bookstore. */
+}
+
+body {
+  margin: 2rem 2rem 6rem 2rem;
+  min-height: 100vh;
+  background: linear-gradient(transparent 70%, #93e84d 100%), #89c4f5;
+}
+
+p,
+li,
+em {
+  white-space: pre-wrap;
+  font-size: 1.8rem;
+}
+
+h1,
+h2 {
+  margin-top: 4rem;
+  font-size: 2.8rem;
+}
+
+h3 {
+  font-size: 1.8rem;
+  margin-bottom: 0;
+}
+
+.contents-list__poem-link {
+  display: block;
+  font-weight: bold;
+}
+
+@media (min-width: 600px) {
+  body {
+    margin-top: 10rem;
+    background: radial-gradient(
+        circle at top right,
+        #f9f994 60px,
+        transparent 500px
+      ),
+      linear-gradient(transparent 70%, #cdf9a9 100%), #a4d3fa;
+  }
+
+  p,
+  em {
+    font-size: 2.2rem;
+  }
+
+  h1,
+  h2 {
+    margin-top: 6rem;
+    font-size: 3.4rem;
+  }
+
+  h3 {
+    font-size: 2.2rem;
+    margin-bottom: 0;
+  }
+}
+
+.wrapper {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.poem-author {
+  margin: 4rem;
+}
+
+nav a {
+  display: block;
+  margin-top: 10rem;
+  font-size: 2.8rem;
+  font-weight: bold;
+}
+
+em {
+  margin-top: -2rem;
+  display: block;
+}
+
+a,
+a:visited {
+  color: #044376;
+}
+
+@font-face {
+  font-family: "Figueroa";
+  src: url("/fonts/figueroa-bold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Figueroa";
+  font-weight: bold;
+  src: url("/fonts/figueroa.woff2") format("woff2");
+}
