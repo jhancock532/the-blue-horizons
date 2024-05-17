@@ -89,11 +89,11 @@ a:visited {
 
 @font-face {
   font-family: "Figueroa";
-  src: url("/fonts/figueroa-bold.woff2") format("woff2");
+  src: url("/the-blue-horizons/fonts/figueroa-bold.woff2") format("woff2");
 }
 
 @font-face {
   font-family: "Figueroa";
   font-weight: bold;
-  src: url("/fonts/figueroa.woff2") format("woff2");
+  src: url("/the-blue-horizons/fonts/figueroa.woff2") format("woff2");
 }
